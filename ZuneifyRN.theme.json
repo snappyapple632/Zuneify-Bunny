@@ -1,0 +1,140 @@
+{
+    "name": "Zuneify",
+    "description": "Discord meets the Social.",
+    "authors": [
+        {
+            "name": "snappyapple632",
+            "id": "100072723044114432"
+        }
+    ],
+	"spec": 2
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#A9A9AD"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#A9A9AD"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#A9A9AD"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#503E38"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#A9A9AD"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#FB3199"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#2E3137"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#A9A9AD"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#A9A9AD"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#2E3137"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#503E38"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#A9A9AD"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#A9A9AD"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#A9A9AD"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#A9A9AD"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#474747"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#474747"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#85908D"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#85908D"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "503E38"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAC0B3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#372E29"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#FB3199"
+        ],
+        "TEXT_LINK": [
+            "#FB3199"
+        ],
+        "TEXT_DANGER": [
+            "#503E38"
+        ],
+        "KEYBOARD": [
+            "#2E3137"
+        ],
+        "CHANNEL_ICON": [
+            "#A9A9AD"
+        ],
+        "CHAT_BACKGROUND": [
+            "#2E3137"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#FB3199",
+        "PRIMARY_100": "#A9A9AD",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#FB3199",
+        "PRIMARY_360": "#FB3199",
+        "PRIMARY_400": "#FB3199",
+        "PRIMARY_600": "#100D0A",
+        "PRIMARY_630": "#1B1411",
+        "PRIMARY_660": "#1B1411",
+        "PRIMARY_700": "#100D0A",
+        "PRIMARY_800": "#100D0A",
+        "BRAND_260": "#FB3199",
+        "BRAND_360": "#D0A996",
+        "BRAND_500": "#FB3199",
+        "BRAND_560": "#D0A996",
+        "YELLOW_300": "#FB3199",
+        "GREEN_600": "#A9A9AD",
+        "RED_400": "#FB3199",
+        "WHITE_500": "#A9A9AD",
+        "GREEN_360": "#503E38"
+    },
+	"background": {
+		"blur": 0.0, // background blur
+		"url": "https://cdn.discordapp.com/attachments/882021156255858778/887869761806037022/zune_mobile_comp.png",
+		"alpha": 1.0 // background opacity
+		},
+}
