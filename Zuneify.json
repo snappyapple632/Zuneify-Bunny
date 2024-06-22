@@ -7,7 +7,6 @@
             "id": "100072723044114432"
         }
     ],
-	"spec": 2
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#FFFFFF"
@@ -111,12 +110,12 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#FB3199",
         "PRIMARY_100": "#A9A9AD",
         "PRIMARY_230": "#F4EAE5",
         "PRIMARY_300": "#FB3199",
         "PRIMARY_360": "#FB3199",
         "PRIMARY_400": "#FB3199",
+        "PRIMARY_500": "#FB3199",
         "PRIMARY_600": "#100D0A",
         "PRIMARY_630": "#1B1411",
         "PRIMARY_660": "#1B1411",
@@ -152,8 +151,9 @@
   "NotoSans-Semibold": "https://github.com/snappyapple632/Zuneify-Bunny/blob/main/fonts/ZegoeUISemiBold-U.ttf?raw=1"
    },
 	"background": {
-		"blur": 0.0, // background blur
+		"blur": 0.0,
 		"url": "https://cdn.discordapp.com/attachments/882021156255858778/887869761806037022/zune_mobile_comp.png?raw=true",
-		"alpha": 1.0 // background opacity
+		"alpha": 1.0
 		},
+    "spec": 2
 }
