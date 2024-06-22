@@ -113,7 +113,7 @@
     "rawColors": {
         "PRIMARY_500": "#FB3199",
         "PRIMARY_100": "#A9A9AD",
-        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_230": "#F4EAE5",
         "PRIMARY_300": "#FB3199",
         "PRIMARY_360": "#FB3199",
         "PRIMARY_400": "#FB3199",
@@ -153,7 +153,7 @@
    },
 	"background": {
 		"blur": 0.0, // background blur
-		"url": "https://cdn.discordapp.com/attachments/882021156255858778/887869761806037022/zune_mobile_comp.png",
+		"url": "https://cdn.discordapp.com/attachments/882021156255858778/887869761806037022/zune_mobile_comp.png?raw=true",
 		"alpha": 1.0 // background opacity
 		},
 }
