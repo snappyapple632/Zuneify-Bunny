@@ -186,9 +186,8 @@
   "NotoSans-Semibold": "https://github.com/snappyapple632/Zuneify-Bunny/blob/main/fonts/ZegoeUISemiBold-U.ttf?raw=1"
    },
 	"background": {
-		"blur": 0.0,
+        "alpha": 1,
 		"url": "https://github.com/snappyapple632/Zuneify-Bunny/zune_mobile_comp.png?raw=true",
-		"alpha": 5
 		},
     "spec": 2
 }
