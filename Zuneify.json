@@ -93,10 +93,10 @@
     "#63666a"
     ],
     "INTERACTIVE_MUTED": [
-    "#25282a"
+    "#63666a"
     ],
     "INTERACTIVE_NORMAL": [
-    "#c4a7e7"
+    "#eb6f92"
     ],
     "MENTION_FOREGROUND": [
     "#eb6f92"
@@ -117,7 +117,7 @@
     "#e0def4"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-    "#F4EAE5"
+    "#ffffff"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
     "#26233a"
@@ -138,7 +138,7 @@
     "#E7D6CE"
     ],
     "TEXT_PRIMARY": [
-    "#F4EAE5"
+    "#ffffff"
     ],
     "TEXT_SECONDARY": [
     "#D2B7AA"
@@ -146,7 +146,7 @@
     },
     "rawColors": {
         "PRIMARY_100": "#A9A9AD",
-        "PRIMARY_230": "#F4EAE5",
+        "PRIMARY_230": "#ffffff",
         "PRIMARY_300": "#FB3199",
         "PRIMARY_360": "#FB3199",
         "PRIMARY_400": "#FB3199",
