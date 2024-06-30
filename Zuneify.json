@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-    "#eb6f9250"
+    "#ffffff7f"
     ],
     "BACKGROUND_ACCENT": [
     "#25282a"
@@ -75,10 +75,10 @@
     "#ec008c"
     ],
     "CHANNELS_DEFAULT": [
-    "#908caa"
+    "#adadad"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-    "#908caa"
+    "#adadad"
     ],
     "HEADER_PRIMARY": [
     "#ffffff"
