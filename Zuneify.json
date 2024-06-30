@@ -98,8 +98,11 @@
     "INTERACTIVE_NORMAL": [
     "#8a0052"
     ],
-    "MENTION_FOREGROUND": [
+    "MENTION_BACKGROUND": [
     "#8a0052"
+    ],
+    "MENTION_FOREGROUND": [
+    "#ec008c"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
     "#000000"
