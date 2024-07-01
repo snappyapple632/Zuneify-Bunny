@@ -175,7 +175,8 @@
         "RED_500":"#63666a",
         "GREEN_360":"#ec008c",
         "WHITE_500":"#ffffff",
-        "WHITE_630":"#ffffff"
+        "WHITE_630":"#ffffff",
+        "PLUM_2":"#000000"
     },
 "fonts":{
   "ABCGintoNord-ExtraBold": "https://github.com/snappyapple632/Zuneify-Bunny/blob/main/fonts/ZegoeCapsBold.ttf?raw=1",
