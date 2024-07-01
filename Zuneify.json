@@ -1,6 +1,6 @@
 {
     "name": "Zuneify",
-    "description": "Discord meets the Social.",
+    "description": "Discord meets the Social. Works best with the Midnight theme.",
     "authors": [
         {
             "name": "snappyapple632",
@@ -132,7 +132,7 @@
     "#eb6f92"
     ],
     "TEXT_LINK": [
-    "#FB3199"
+    "#ec008c"
     ],
     "TEXT_MUTED": [
     " #63666a "
@@ -148,26 +148,36 @@
     ]
     },
     "rawColors": {
-        "PRIMARY_100": "#ffffff",
-        "PRIMARY_230": "#ffffff",
-        "PRIMARY_300": "#FB3199",
-        "PRIMARY_360": "#FB3199",
-        "PRIMARY_400": "#FB3199",
-        "PRIMARY_500": "#FB3199",
-        "PRIMARY_600": "#100D0A",
-        "PRIMARY_630": "#1B1411",
-        "PRIMARY_660": "#1B1411",
-        "PRIMARY_700": "#100D0A",
-        "PRIMARY_800": "#100D0A",
-        "BRAND_260": "#FB3199",
-        "BRAND_360": "#D0A996",
-        "BRAND_500": "#FB3199",
-        "BRAND_560": "#FFFFFF",
-        "YELLOW_300": "#FB3199",
-        "GREEN_600": "#A9A9AD",
-        "RED_400": "#FB3199",
-        "WHITE_500": "#ffffff",
-        "GREEN_360": "#63666a"
+        "BRAND_260":"#000000",
+        "BRAND_560":"#ffffff",
+        "PRIMARY_230":"#ffffff",
+        "PRIMARY_300":"#ffffff",
+        "PRIMARY_360":"#ffffff",
+        "PRIMARY_400":"#ffffff",
+        "PRIMARY_460":"#000000",
+        "PRIMARY_500":"#000000",
+        "PRIMARY_560":"#000000",
+        "PRIMARY_600":"#000000",
+        "PRIMARY_630":"#000000",
+        "PRIMARY_645":"#25282a",
+        "PRIMARY_700":"#000000",
+        "PRIMARY_800":"#000000",
+        "PLUM_1":"#ffffff",
+        "PLUM_3":"#ffffff",
+        "PLUM_6":"#ffffff",
+        "PLUM_9":"#ffffff",
+        "PLUM_10":"#63666a",
+        "PLUM_11":"#000000",
+        "PLUM_13":"#25282a",
+        "PLUM_17":"#000000",
+        "PLUM_18":"#25282a",
+        "PLUM_19":"#000000",
+        "PLUM_20":"#000000",
+        "PLUM_22":"#000000",
+        "RED_400":"#ec008c",
+        "GREEN_360":"#ec008c",
+        "WHITE_500":"#ffffff",
+        "WHITE_630":"#ffffff"
     },
 "fonts":{
   "ABCGintoNord-ExtraBold": "https://github.com/snappyapple632/Zuneify-Bunny/blob/main/fonts/ZegoeCapsBold.ttf?raw=1",
