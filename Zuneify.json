@@ -66,13 +66,13 @@
     "#63666a"
     ],
     "CARD_SECONDARY_BG": [
-    "#16181a"
+    "#000000"
     ],
     "CARD_PRIMARY_BG": [
-    "#25282a"
+    "#000000"
     ],
     "CHANNEL_ICON": [
-    "#ec008c"
+    "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
     "#adadad"
