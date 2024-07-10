@@ -107,11 +107,17 @@
     "INTERACTIVE_NORMAL": [
     "#63666a"
     ],
+    "LOGO_PRIMARY" : [
+    "#FFFFFF"
+    ],
     "MENTION_BACKGROUND": [
     "#8a0052"
     ],
     "MENTION_FOREGROUND": [
     "#ec008c"
+    ],
+    "MODAL_FOOTER_BACKGROUND": [
+    "#EA6D55"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
     "#000000"
