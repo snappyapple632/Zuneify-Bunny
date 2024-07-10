@@ -129,7 +129,7 @@
     "#25282a"
     ],
     "TEXT_DANGER": [
-    "#eb6f92"
+    "#EA6D55"
     ],
     "TEXT_LINK": [
     "#ec008c"
@@ -147,40 +147,7 @@
     "#ffffff"
     ]
     },
-    "rawColors": {
-        "BRAND_260":"#000000",
-        "BRAND_560":"#ffffff",
-        "PRIMARY_230":"#ffffff",
-        "PRIMARY_300":"#ffffff",
-        "PRIMARY_360":"#ffffff",
-        "PRIMARY_400":"#ffffff",
-        "PRIMARY_460":"#000000",
-        "PRIMARY_500":"#000000",
-        "PRIMARY_560":"#000000",
-        "PRIMARY_600":"#000000",
-        "PRIMARY_630":"#000000",
-        "PRIMARY_645":"#25282a",
-        "PRIMARY_700":"#000000",
-        "PRIMARY_800":"#000000",
-        "PLUM_1":"#ffffff",
-        "PLUM_3":"#ffffff",
-        "PLUM_6":"#ffffff",
-        "PLUM_9":"#ffffff",
-        "PLUM_10":"#63666a",
-        "PLUM_11":"#000000",
-        "PLUM_13":"#25282a",
-        "PLUM_17":"#000000",
-        "PLUM_18":"#25282a",
-        "PLUM_19":"#000000",
-        "PLUM_20":"#000000",
-        "PLUM_22":"#000000",
-        "RED_400":"#ec008c",
-        "RED_500":"#63666a",
-        "GREEN_360":"#ec008c",
-        "WHITE_500":"#ffffff",
-        "WHITE_630":"#ffffff",
-        "PLUM_4":"#ffffff"
-    },
+
 "fonts":{
   "ABCGintoNord-ExtraBold": "https://github.com/snappyapple632/Zuneify-Bunny/blob/main/fonts/ZegoeCapsBold.ttf?raw=1",
   "ggsans-Bold": "https://github.com/snappyapple632/Zuneify-Bunny/blob/main/fonts/ZegoeCapsBold.ttf?raw=1",
