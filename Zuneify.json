@@ -116,7 +116,7 @@
     "MENTION_FOREGROUND": [
     "#ec008c"
     ],
-    "MODAL_FOOTER_BACKGROUND": [
+    "PANEL_BG": [
     "#EA6D55"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
