@@ -32,9 +32,6 @@
     "BACKGROUND_MODIFIER_ACCENT": [
     "#25282a"
     ],
-    "BACKGROUND_MODIFIER_ACCENT_2": [
-    "#EA6D55"
-    ],
     "BACKGROUND_MODIFIER_ACTIVE": [
     "#25282a"
     ],
@@ -55,6 +52,9 @@
     ],
     "BACKGROUND_TERTIARY": [
     "#000000"
+    ],
+    "BG_BACKDROP": [
+    "#EA6D55"
     ],
     "BG_BASE_PRIMARY": [
     "#000000"
