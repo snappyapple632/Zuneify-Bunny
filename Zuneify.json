@@ -11,11 +11,14 @@
         "ANDROID_RIPPLE": [
     "#ffffff7f"
     ],
+    "AUTOCOMPLETE_BACKGROUND": [
+    "#25282a"
+    ],
     "BACKGROUND_ACCENT": [
     "#25282a"
     ],
     "BACKGROUND_FLOATING":  [
-    "#DC494A"
+    "#000000"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
     "#25282a"
@@ -28,6 +31,9 @@
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
     "#25282a"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT_2": [
+    "#EA6D55"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
     "#25282a"
