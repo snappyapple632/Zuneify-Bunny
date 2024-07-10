@@ -14,6 +14,9 @@
     "BACKGROUND_ACCENT": [
     "#25282a"
     ],
+    "BACKGROUND_FLOATING":  [
+    "#DC494A"
+    ],
     "BACKGROUND_MESSAGE_HOVER": [
     "#25282a"
     ],
