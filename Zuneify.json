@@ -77,6 +77,9 @@
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
     "#adadad"
     ],
+    "CHAT_BACKGROUND": [
+    "#00000000"
+    ],
     "HEADER_PRIMARY": [
     "#ffffff"
     ],
